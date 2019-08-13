@@ -2,7 +2,7 @@
 ## Estudiante
 **Julian Gutierrez**\
 *Ingenieria de Sistemas de la [ECI](https://www.escuelaing.edu.co)*\
-21 años 
+21 aÃ±os 
 
 ## Algunas materias Vistas:
 - PIMO
@@ -10,7 +10,7 @@
 - MBDA
 - LCAL
 
-## Compañeros:
+## CompaÃ±eros:
 1. Ricardo 
 23. Natalia
 6. Miguel
@@ -29,9 +29,9 @@ if (y > 0){
 ```
 ## Parte 3:
 
-![](https://raw.githubusercontent.com/Ricar8o/Lab-1/master/Julian_Gutierrez/Imagen1.png
-![](https://raw.githubusercontent.com/Ricar8o/Lab-1/master/Julian_Gutierrez/Imagen2.png
-![](https://raw.githubusercontent.com/Ricar8o/Lab-1/master/Julian_Gutierrez/Imagen3.png
+![](https://raw.githubusercontent.com/Ricar8o/Lab-1/master/Julian_Gutierrez/Imagen1.png)
+![](https://raw.githubusercontent.com/Ricar8o/Lab-1/master/Julian_Gutierrez/Imagen2.png)
+![](https://raw.githubusercontent.com/Ricar8o/Lab-1/master/Julian_Gutierrez/Imagen3.png)
 
 > Gracias
 
