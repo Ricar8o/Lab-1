@@ -12,7 +12,7 @@
 ## Sobre mí:
 
 *Soy estudiante de ingeniería Industrial de la Escuela Colombiana de ingeniería Julio Garavito, estoy en décimo semestre y actualmente me encuentro realizando doble programa con ingeniería de sistemas. Decidí realizar esta ingeniería porque siempre me gusto cantidad de cosas que nos permitía hacer la computación y todo lo relacionado con la tecnología.*  
-*En mis tiempos libres me gusta escuchar música y leer libros, además practico [Capoeira](https://es.wikipedia.org/wiki/Capoeira) hace 10 años y me gusta salir con amigos.*
+*En mis tiempos libres me gusta escuchar música y leer libros, además practico [Capoeira](https://es.wikipedia.org/wiki/Capoeira) desde hace 10 años y me gusta salir con amigos.*
 
 ---
 
@@ -36,3 +36,8 @@ public class testWhile {
 ## Imagen
 
 ![](https://i.pinimg.com/originals/13/0b/82/130b8235bcc4cab3fd4e568c84f09aae.jpg)
+
+-----
+
+# Parte III. - GIT Branching
+
