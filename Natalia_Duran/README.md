@@ -51,6 +51,6 @@ public void insertar(int a){
 ```
 ### Imágenes de Learn Git Branching
 
-* [Main](https://github.com/nduran06/Laboratorio/blob/master/2.png) 
-* [Remote](https://github.com/nduran06/Laboratorio/blob/master/3.png) 
-* [Finalizado](https://github.com/nduran06/Laboratorio/blob/master/1.png) 
+* [Main](https://raw.githubusercontent.com/Ricar8o/Lab-1/master/Natalia_Duran/2.png) 
+* [Remote](https://raw.githubusercontent.com/Ricar8o/Lab-1/master/Natalia_Duran/3.png) 
+* [Finalizado](https://raw.githubusercontent.com/Ricar8o/Lab-1/master/Natalia_Duran/1.png) 
