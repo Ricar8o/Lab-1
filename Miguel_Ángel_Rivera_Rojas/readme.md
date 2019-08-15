@@ -16,6 +16,13 @@
 
 ---
 
+## Materias que estoy viendo:
+
+- CVDS
+- SPTI
+- SPIM
+
+-----
 
 ## Código Imprimir del 1 al 9 en java
 ```
@@ -41,3 +48,10 @@ public class testWhile {
 
 # Parte III. - GIT Branching
 
+## Main  
+
+![](https://github.com/Ricar8o/Lab-1/blob/master/Miguel_%C3%81ngel_Rivera_Rojas/Main.PNG)
+
+## Remote  
+
+![](https://github.com/Ricar8o/Lab-1/blob/master/Miguel_%C3%81ngel_Rivera_Rojas/remote.PNG)
