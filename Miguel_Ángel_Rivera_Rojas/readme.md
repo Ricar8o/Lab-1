@@ -1,6 +1,6 @@
 # Parte 2
 ----
-## Iformación basica
+## Información basica
 
 1. **nombre:** Miguel Ángel Rivera Rojas.
 2. **edad:** 24 años
